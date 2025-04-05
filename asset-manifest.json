@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HopYard/static/css/main.c867207e.css",
+    "main.js": "/HopYard/static/js/main.e174f936.js",
+    "static/js/453.f9cf6ffd.chunk.js": "/HopYard/static/js/453.f9cf6ffd.chunk.js",
+    "index.html": "/HopYard/index.html",
+    "main.c867207e.css.map": "/HopYard/static/css/main.c867207e.css.map",
+    "main.e174f936.js.map": "/HopYard/static/js/main.e174f936.js.map",
+    "453.f9cf6ffd.chunk.js.map": "/HopYard/static/js/453.f9cf6ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c867207e.css",
+    "static/js/main.e174f936.js"
+  ]
+}
