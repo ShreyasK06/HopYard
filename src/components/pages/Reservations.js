@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { FaMapMarkerAlt, FaClock, FaPhone, FaEnvelope, FaFacebook, FaTwitter, FaInstagram, FaCalendarAlt, FaUsers, FaUtensils } from 'react-icons/fa';
+import { FaPhone, FaEnvelope, FaMapMarkerAlt, FaClock } from 'react-icons/fa';
 import '../../styles/Contact.css';
 
 const Reservations = () => {
